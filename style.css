@@ -114,7 +114,7 @@ html {
 /* end header */
 /* start landing */
 .landing {
- background-image: url(../assets/imgs/686998.jpg);
+ background-image: url(./assets/imgs/686998.jpg);
  background-size: cover;
  height: calc(100vh - 74px);
  position: relative;
